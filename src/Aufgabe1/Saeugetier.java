@@ -1,3 +1,5 @@
+package Aufgabe1;
+
 public abstract class Saeugetier //mit abstract lassen sich keine Objekte erzeugen, es können Methoden ohne Rumpf erstellt werden
 {
     private String name;

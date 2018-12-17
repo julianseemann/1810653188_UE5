@@ -1,3 +1,5 @@
+package Aufgabe1;
+
 public class Mensch extends Saeugetier
 {
     public Mensch(String name, int alter, String geschlecht)
